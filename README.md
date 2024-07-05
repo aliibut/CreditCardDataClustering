@@ -1,0 +1,1 @@
+aim to group credit card users into distinct clusters to uncover insightful patterns. Our approach involves utilizing Principal Component Analysis (PCA) to streamline the feature space dimensions, followed by applying the K-means algorithm to identify these clusters.
